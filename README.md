@@ -17,3 +17,7 @@ Execute o seguinte comando e siga as instruções:
 <code>eas login</code>
 <br><br>
 Ele solicitará que você faça login com suas credenciais Expo. Siga as instruções para autenticar.
+<br><br>
+Inicar Projeto:
+<br>
+<code>npx expo start</code>
